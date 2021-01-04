@@ -1,0 +1,19 @@
+{
+  "name": "periodical-global",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hejiazuchao/periodical-global.git"
+  },
+  "author": "hexc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hejiazuchao/periodical-global/issues"
+  },
+  "homepage": "https://github.com/hejiazuchao/periodical-global#readme"
+}
