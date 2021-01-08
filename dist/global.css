@@ -299,3 +299,6 @@ body {
 .el-tooltip:focus {
 	outline: none;
 }
+.fullscreenloading .el-icon-loading{
+	font-size: 50px;
+}
