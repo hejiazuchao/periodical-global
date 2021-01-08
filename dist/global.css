@@ -302,3 +302,20 @@ body {
 .fullscreenloading .el-icon-loading{
 	font-size: 50px;
 }
+
+.clearTipBox {
+ background: #e6f7ff;
+ border: 1px solid #bae7ff;
+ margin: 20px 0;
+ line-height: 40px;
+ border-radius: 4px;
+ padding: 0 18px;
+}
+.clearTipBox .text {
+  margin-right: 10px;
+  font-size: 12px;
+  color: #1890ff;
+}
+.clearTipBox .textBlack{
+    color:#000;
+}
