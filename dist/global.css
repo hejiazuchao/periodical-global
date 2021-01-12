@@ -319,3 +319,8 @@ body {
 .clearTipBox .textBlack{
     color:#000;
 }
+.ImgIcon {
+    color: #1890ff;
+    font-size: 16px;
+    cursor: pointer;
+}
