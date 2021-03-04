@@ -25,7 +25,7 @@ export default class extends Vue {
 
 <style lang="scss">
 .batchBox {
-	width: calc(100% - 210px);
+	width: calc(100% - 248px);
 	background: #fff;
 	position: fixed;
 	bottom: 0;
